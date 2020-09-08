@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "starter_app_part-1",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
