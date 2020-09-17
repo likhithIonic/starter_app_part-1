@@ -112,26 +112,22 @@ Appflow works directly with Git version control and uses your code base as the s
 
 1. To prepare a web build, There are two ways:
 	1. Click the Start build icon from the Commits tab
+	![Appflow](images/img1_5.png)
 	OR,
 	2.  Click the New build button in the top right from the Build > Builds tab
+	![Appflow](images/img1_6.png)
 
-2. You will need to make sure you've selected the correct commit to deploy.
-3.  Then select the Web target platform and destinations as web preview to enable preview for this particular build as shown below.
-4. Click build and the logs for your build instance should show up.
+2. You will need to make sure you've selected the correct commit to deploy.Then select the Web target platform and destinations as web preview to enable preview for this particular build as shown below.
+![Appflow](images/img1_7.png)
+3. Click build and the logs for your build instance should show up.
 Once, the build is successful you can click the preview button to view the preview of your first Starter Application.
+![Appflow](images/img1_8.png)
 
 
 
 
 * You can also download the artifact for this build by clicking on the build artifact on the left side.
 
-
-This section covers the the following concepts:
-
-* Setting up tooling for Ionic Starter App
-* Creating a Starter App using Ionic 
-* Git integration and project creation
-* Preparing a web build and preview
 
 You can use this repository to compare your starter project and make changes if necessary.
 
