@@ -79,42 +79,45 @@ Appflow works directly with Git version control and uses your code base as the s
 **To create an app in the Appflow Dashboard and then connect it to your git repo:**
 
 1. Login to the Appflow Dashboard using your credentials and select the Apps tab from the side menu.
-1. Next, select the Add App button, as shown below.
+2. Next, select the Add App button, as shown below.
+
+![Appflow](images/img1_1.png)
+
+
+3. From the popup enter your starter Appname in the field and continue.
+
+
+![Appflow](images/img1_2.png)
 
 
 
-1. From the popup enter your starter Appname in the field and continue.
 
+4. Select the Git sub menu from the setting menu in the side bar and select integrate as shown below.
 
+![Appflow](images/img1_3.png)
 
-
-
-
-
-1. Select the Git sub menu from the setting menu in the side bar and select integrate as shown below.
-
-
-
-1. You should be able to integrate any of the Git options available as given with Appflow.
+5. You should be able to integrate any of the [Git options](https://ionicframework.com/docs/appflow/quickstart/connect#choose-your-git-integration) available as given with Appflow.
 
 ## Preparing a web build and preview
 
 >**Note:** You need to enable web preview in settings for your app before you build to have previews for that particular build.
 
-1. To enable web previews go to settings > Web preview > Allow web builds to deploy to the web preview.
+* To enable web previews go to settings > Web preview > Allow web builds to deploy to the web preview.
 
+![Appflow](images/img1_4.png)
 
+* Once you have enabled web previews for your application and you can toggle for each and every build. (shown below)
 
-2. Once you have enabled web previews for your application and you can toggle for each and every build. (shown below)
+**Trigger a new web build**
 
-3. To prepare a web build, There are two ways:
+1. To prepare a web build, There are two ways:
 	1. Click the Start build icon from the Commits tab
-	
-	2. OR, Click the New build button in the top right from the Build > Builds tab
+	OR,
+	2.  Click the New build button in the top right from the Build > Builds tab
 
-4. You will need to make sure you've selected the correct commit to deploy.
-5.  Then select the Web target platform and destinations as web preview to enable preview for this particular build as shown below.
-6. Click build and the logs for your build instance should show up.
+2. You will need to make sure you've selected the correct commit to deploy.
+3.  Then select the Web target platform and destinations as web preview to enable preview for this particular build as shown below.
+4. Click build and the logs for your build instance should show up.
 Once, the build is successful you can click the preview button to view the preview of your first Starter Application.
 
 
