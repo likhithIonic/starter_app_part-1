@@ -24,7 +24,7 @@ This part -1 of the exploring Appflow exercise consists of the following topics
 npm install -g @ionic/cli native-run cordova-res 
 ```
 
-Refer [Getting started](https://ionicframework.com/docs/angular/your-first-app#download-required-tools) with tooling for more information
+*Refer [Getting started](https://ionicframework.com/docs/angular/your-first-app#download-required-tools) with tooling for more information*
 
 ## Starter App using Ionic 
 
@@ -44,7 +44,7 @@ Here, with the above we are initiating an Ionic starter app with
  `Framework:		angular`
  `Starter Template:	blank`
 
-To know more about all the frameworks and various starter template to available to choose from refer [Starting an Ionic App]([https://ionicframework.com/docs/developing/starting](https://ionicframework.com/docs/developing/starting)) 
+*To know more about all the frameworks and various starter template to available to choose from refer [Starting an Ionic App](https://ionicframework.com/docs/developing/starting)*
 
 **Integrating with Capacitor**
 
@@ -60,11 +60,13 @@ Integrate your new app with Capacitor to target native iOS and Android? (y/N)
 
 * **NOTE:** If you would like to integrate your starter app with cordova, you can use the below commands to get started.
 
-```ionic integrations add cordova ```
+```
+ionic integrations add cordova
+```
 
-More information on getting started with Cordova [here!]([https://cordova.apache.org/#getstarted](https://cordova.apache.org/#getstarted))
+More information on getting started with Cordova [here](https://cordova.apache.org/#getstarted)
 
-***To learn more about these platforms, you can refer the docs on [Capacitor vs Cordova]([https://ionicframework.com/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development](https://ionicframework.com/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development))***
+***To learn more about these platforms, you can refer the docs on [Capacitor vs Cordova](https://ionicframework.com/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development)***
 
 
 
@@ -74,7 +76,7 @@ More information on getting started with Cordova [here!]([https://cordova.apache
 
 Appflow works directly with Git version control and uses your code base as the source of truth for Deploy and Package builds. In order for Appflow to access your code, you can choose to integrate directly using a hosting service like **GitHub**, **GitLab\*** or **Bitbucket.**
 
-> You'll need to create an app in the Appflow Dashboard and then you can connect it to your git repo. 
+**To create an app in the Appflow Dashboard and then connect it to your git repo:**
 
 1. Login to the Appflow Dashboard using your credentials and select the Apps tab from the side menu.
 1. Next, select the Add App button, as shown below.
