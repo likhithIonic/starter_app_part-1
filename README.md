@@ -24,7 +24,7 @@ This part -1 of the exploring Appflow exercise consists of the following topics
 npm install -g @ionic/cli native-run cordova-res 
 ```
 
-*Refer [Getting started](https://ionicframework.com/docs/angular/your-first-app#download-required-tools) with tooling for more information*
+***Refer [Getting started](https://ionicframework.com/docs/angular/your-first-app#download-required-tools) with tooling for more information***
 
 ## Starter App using Ionic 
 
@@ -44,7 +44,7 @@ Here, with the above we are initiating an Ionic starter app with
  `Framework:		angular`
  `Starter Template:	blank`
 
-*To know more about all the frameworks and various starter template to available to choose from refer [Starting an Ionic App](https://ionicframework.com/docs/developing/starting)*
+***To know more about all the frameworks and various starter template to available to choose from refer [Starting an Ionic App](https://ionicframework.com/docs/developing/starting)***
 
 **Integrating with Capacitor**
 
@@ -58,13 +58,12 @@ Integrate your new app with Capacitor to target native iOS and Android? (y/N)
 
 `[OK] Integration capacitor added!`
 
-* **NOTE:** If you would like to integrate your starter app with cordova, you can use the below commands to get started.
+* **NOTE:** If you would like to integrate your starter app with cordova, you can use the below command and docs to get started. More information on getting started with Cordova [here](https://cordova.apache.org/#getstarted)
 
 ```
 ionic integrations add cordova
 ```
 
-More information on getting started with Cordova [here](https://cordova.apache.org/#getstarted)
 
 ***To learn more about these platforms, you can refer the docs on [Capacitor vs Cordova](https://ionicframework.com/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development)***
 
@@ -120,8 +119,11 @@ Appflow works directly with Git version control and uses your code base as the s
 2. You will need to make sure you've selected the correct commit to deploy.Then select the Web target platform and destinations as web preview to enable preview for this particular build as shown below.
 ![Appflow](images/img1_7.png)
 3. Click build and the logs for your build instance should show up.
-Once, the build is successful you can click the preview button to view the preview of your first Starter Application.
-![Appflow](images/img1_8.png)
+Once, the build is successful you can click the preview button to view the preview of your first Starter Application. <br>
+<p align="center">
+  <img src="images/img1_8.png">
+</p>
+
 
 
 
