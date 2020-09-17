@@ -108,10 +108,12 @@ Appflow works directly with Git version control and uses your code base as the s
 
 * Once you have enabled web previews for your application and you can toggle for each and every build. (shown below)
 
+**Trigger a new web build**
+
 1. To prepare a web build, There are two ways:
 	1. Click the Start build icon from the Commits tab
-	
-	2. OR, Click the New build button in the top right from the Build > Builds tab
+	OR,
+	2.  Click the New build button in the top right from the Build > Builds tab
 
 2. You will need to make sure you've selected the correct commit to deploy.
 3.  Then select the Web target platform and destinations as web preview to enable preview for this particular build as shown below.
