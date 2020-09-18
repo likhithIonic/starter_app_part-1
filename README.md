@@ -40,9 +40,9 @@ ionic start starter_app blank --type=angular
 ```
 Here, with the above we are initiating an Ionic starter app with
 
- `Name:			starter_app`
- `Framework:		angular`
- `Starter Template:	blank`
+ `NAME:			starter_app`
+ `FRAMEWORK:		angular`
+ `STARTER TEMPLATE:	blank`
 
 ***To know more about all the frameworks and various starter template to available to choose from refer [Starting an Ionic App](https://ionicframework.com/docs/developing/starting)***
 
