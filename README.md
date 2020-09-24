@@ -58,7 +58,7 @@ Integrate your new app with Capacitor to target native iOS and Android? (y/N)
 
 `[OK] Integration capacitor added!`
 
-* **NOTE:** If you would like to integrate your starter app with cordova, you can use the below command and docs to get started. More information on getting started with Cordova [here](https://cordova.apache.org/#getstarted)
+* **NOTE:** **Ionic highly recommends using Capacitor for best experience with Appflow**. If you would like to integrate your starter app with cordova, you can use the below command and docs to get started. More information on getting started with Cordova [here](https://cordova.apache.org/#getstarted)
 
 ```
 ionic integrations add cordova
